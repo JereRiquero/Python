@@ -1,0 +1,8 @@
+Creo mi Archivo txt en Python
+Las diferentes letras en la creación de un archivo y su uso
+r -> es para leer un archivo
+a -> para agregar más info
+x -> crear un archivo
+t -> especifica que el archivo es de texto
+b -> especifica que el tipo de archivo es binario
+w+ | r+ -> leer y escribir
